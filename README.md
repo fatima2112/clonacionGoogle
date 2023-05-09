@@ -3,8 +3,8 @@
 ## ÍNDICE
 
 * [1. Intro](https://github.com/fatima2112/clonacionGoogle/tree/main#1-intro-)
-* [2. Qué construí](#)
-* [3. Objetivos del proyecto](#)
+* [2. Qué construí](https://github.com/fatima2112/clonacionGoogle/tree/main#2-qu%C3%A9-constru%C3%AD-)
+* [3. Objetivos del proyecto](https://github.com/fatima2112/clonacionGoogle/tree/main#3-objetivo-del-proyecto-)
 
 ****
 
